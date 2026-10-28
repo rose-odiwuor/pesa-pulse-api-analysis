@@ -20,8 +20,6 @@ day1-api-analysis/
 
 ## How to run
 
-## How to run
-
 This project uses [uv] to manage the environment.
 
 1. Install uv if you don't have it .
